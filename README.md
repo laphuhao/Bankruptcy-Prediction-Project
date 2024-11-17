@@ -21,4 +21,4 @@ The data were collected from the Taiwan Economic Journal for the years 1999 to 2
 Each model's performance is assessed using an accuracy score. The Random Forest model achieves the highest accuracy, with an impressive score of **96.48%**.
 
 ## Conclusion:
-This project provides a framework for predicting a company's bankruptcy using machine learning algorithms. The best-performing model can be used as a reference for future projects with similar objectives.
+This project provides a framework for predicting companies' bankruptcy using machine learning algorithms. The best-performing model can be used as a reference for future projects with similar objectives.
