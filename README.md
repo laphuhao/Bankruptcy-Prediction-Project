@@ -16,7 +16,7 @@ In this project, I have employed some of the most widely used classification alg
 The data were collected from the Taiwan Economic Journal for the years 1999 to 2009. Company bankruptcy was defined based on the Taiwan Stock Exchange business regulations.
 
 ## Results:
-Each model's performance is evaluated through an accuracy score, and the best-performing model is Random Forest, which achieves an accuracy of **96.92%**.
+Each model's performance is assessed using an accuracy score. The Random Forest model achieves the highest accuracy, with an impressive score of **96.92%**.
 
 ## Conclusion:
 This project provides a framework for predicting a company's bankruptcy using machine learning algorithms. The best-performing model can be used as a reference for future projects with similar objectives.
