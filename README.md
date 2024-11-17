@@ -15,6 +15,8 @@ In this project, I have employed some of the most widely used classification alg
 ## Dataset:
 The data were collected from the Taiwan Economic Journal for the years 1999 to 2009. Company bankruptcy was defined based on the Taiwan Stock Exchange business regulations.
 
+**`Kaggle`**: https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction
+
 ## Results:
 Each model's performance is assessed using an accuracy score. The Random Forest model achieves the highest accuracy, with an impressive score of **96.48%**.
 
