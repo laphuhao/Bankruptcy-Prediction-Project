@@ -3,7 +3,7 @@
 ## Introduction:
 Predicting the financial health of companies and firms has become a key interest for their owners, creditors, and all stakeholders alike, especially now that huge amounts of financial data can be stored and analyzed on computers.
 
-The purpose of a predictive model that tries to foresee bankruptcy is to combine various econometric parameters that can effectively gauge a company's financial state and enable management to take pre-emptive measures that can potentially help avoid any financial distress to the company.
+The project's goal is to utilize machine learning classification algorithms to predict bankruptcy and select the most effective model to help the company anticipate financial distress.
 
 In this project, I have employed some of the most widely used classification algorithms for this project namely
 
