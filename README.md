@@ -5,7 +5,7 @@ Predicting the financial health of companies and firms has become a key interest
 
 The purpose of a predictive model that tries to foresee bankruptcy is to combine various econometric parameters that can effectively gauge a company's financial state and enable management to take pre-emptive measures that can potentially help avoid any financial distress to the company.
 
-In this project, I have employed some of the most widely used classification algorithms for this project namely;
+In this project, I have employed some of the most widely used classification algorithms for this project namely
 
 1. **`Logistic Regression`**
 2. **`Decision Tree`**
